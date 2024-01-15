@@ -1,3 +1,8 @@
 import { NgModule } from "@angular/core";
 
-@NgModule()
+@NgModule({
+  exports: [
+
+  ]
+})
+export class MaterialModule {}
